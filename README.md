@@ -1,8 +1,8 @@
-# Machine learning para psicología
+# Neurodiplomatura - Machine Learning
 
-Material de la clase de machine learning que di para Neurotransmitiendo.
+Material de la clase de machine learning que di para la Neurodiplomatura de Neurotransmitiendo.
 
-- [`machine_learning_para_psicologia.pdf`](machine_learning_para_psicologia.pdf): las diapositivas.
+- [`neurodiplomatura_machine_learning.pdf`](neurodiplomatura_machine_learning.pdf): las diapositivas.
 - [`tmt_ml_practica.ipynb`](tmt_ml_practica.ipynb): notebook de práctica con datos reales del TMT digital. No hace falta instalar nada: se abre en Colab.
 
   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GEJ1/curso-ml-neurotransmitiendo/blob/main/tmt_ml_practica.ipynb)
